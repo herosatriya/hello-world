@@ -1,2 +1,2 @@
 # hello-world
-This is my very first repository on github for making something techy :P
+Hallooo this is my very first commi, let's start to build something great together :D
